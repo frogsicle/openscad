@@ -9,9 +9,9 @@ z_rim = 1;
 n_wells = 5;
 
 module comb(xwell=10, 
-				ywell=3, 
-				zwell=8, 
-				x_between_wells = 20, 
+				ywell=4, 
+				zwell=11, 
+				x_between_wells = 17, 
 				xy_rim = 2, 
 				n_wells=5){
 	//rim
@@ -25,4 +25,8 @@ module comb(xwell=10,
 	}
 }
 
+// seals
 comb();
+
+// loading wells
+translate([0,30,0]) comb(xwell=7, zwell=6);
