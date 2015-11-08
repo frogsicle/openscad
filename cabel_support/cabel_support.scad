@@ -1,16 +1,16 @@
 //one more cabel holder
 cabel_x = 5;
-support_x = 4;
+support_x = 6.2;
 support_z = 3.5;
 screw_r1 = 3/2.1;
 screw_r2 = 6/2;
 screw_h = 2;
-cabel_y = 10;
-n_cabels = 3;
+cabel_y = 8.5;
+n_cabels = 2;
 lip_y = 2;
 lip_z = 6;
-mount_y = 2;
-mount_z = 10.5;
+mount_y = 3;
+mount_z = 11;
 // derived parameters
 total_x =  (support_x + cabel_x) * n_cabels + support_x;
 
@@ -29,9 +29,11 @@ module screwhead(){
 
 module decorum(){
   translate([0,0,mount_z]){
-    cube([support_x,mount_y,mount_z/2]);
+    // side block right
+    cube([support_x*0.8,mount_y,mount_z/2.5]);
     translate([total_x/4,0,0]) cube([total_x/2,mount_y,mount_z/4]);
-    translate([total_x - support_x,0,0]) cube([support_x,mount_y,mount_z/2]);
+    // side block left
+    translate([total_x - support_x * 0.8,0,0]) cube([support_x * 0.8,mount_y,mount_z/2.5]);
     translate([total_x*3/5,mount_y/2,mount_z/2.2]){ 
       rotate([0,30,0]) cube([support_x,mount_y,mount_z/1.5], center=true);
 	 }
