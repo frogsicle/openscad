@@ -3,8 +3,8 @@ mainh = 17;
 outby = -6.2;
 magnet_inwards = 1.4;
 swidth = 6;
-below_mags = 4.3;
-rotation = asin(9.5/61);//measured 19/61?
+below_mags = 4;
+rotation = asin(10/61);//measured 19/61?
 
 //whole set up
 module most(){
