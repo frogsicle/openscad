@@ -31,3 +31,6 @@ difference(){
         translate([-20, -20, -1]) cube([8, 8, 20]);
         };
     };
+
+// keep the eyes cool
+translate([13,15,0]) cylinder(r=2, h=10);
