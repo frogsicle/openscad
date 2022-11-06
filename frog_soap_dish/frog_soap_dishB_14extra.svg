@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg55"
+   width="68.725456mm"
+   height="70.245811mm"
+   viewBox="0 0 207.7998 212.39678"
+   sodipodi:docname="frog_soap_dishB.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs59">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13134"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview57"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.6878307"
+     inkscape:cx="178.39665"
+     inkscape:cy="128.72835"
+     inkscape:window-width="1920"
+     inkscape:window-height="1061"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g61"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     scale-x="0.8"
+     units="mm"
+     width="70mm"
+     inkscape:document-units="mm" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g61"
+     transform="translate(-177.282, -122.323)">
+    <path
+       d="m 216.18098,265.76963 c -2.23171,-7.2199 1.90675,-9.43597 6.47015,-13.13693 5.13006,-3.32237 11.1265,-7.67806 15.55967,-8.09738 0.74063,0.0783 0.84321,0.58642 1.06344,1.11133 -1.50472,2.33855 -5.54356,6.27554 -7.52352,6.8663 -2.1556,1.34934 -4.18301,3.3943 -5.11812,5.3435 -1.57813,5.1725 0.76327,7.5286 7.0611,7.77623 2.90219,-0.31548 6.78074,-1.10863 6.9546,0.46175 -1.14624,3.21081 -4.76099,3.84208 -9.41943,4.55652 -4.66194,0.0352 -13.62953,-1.39951 -15.04789,-4.88132 z"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#2b0000;fill-opacity:1;stroke-width:0.0911872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path8452" />
+  </g>
+</svg>
